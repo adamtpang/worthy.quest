@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Abbott Laboratories",
+    "ticker": "ABT",
+    "slug": "abbott-laboratories",
+    "marketCap": "$219.15 Billion",
+    "description": "As of January 2026 Abbott Laboratories has a market cap of $219.15 Billion USD."
+  },
+  {
+    "name": "AbbVie",
+    "ticker": "ABBV",
+    "slug": "abbvie",
+    "marketCap": "$388.96 Billion",
+    "description": "As of January 2026 AbbVie has a market cap of $388.96 Billion USD."
+  },
+  {
+    "name": "Agricultural Bank of China",
+    "ticker": "601288.SS",
+    "slug": "agricultural-bank-of-china",
+    "marketCap": "$371.69 Billion",
+    "description": "As of January 2026 Agricultural Bank of China has a market cap of $371.69 Billion USD."
+  },
+  {
+    "name": "Airbus",
+    "ticker": "AIR.PA",
+    "slug": "airbus",
+    "marketCap": "$197.62 Billion",
+    "description": "As of January 2026 Airbus has a market cap of $197.62 Billion USD."
+  },
+  {
+    "name": "Alibaba",
+    "ticker": "BABA",
+    "slug": "alibaba",
+    "marketCap": "$360.39 Billion",
+    "description": "As of January 2026 Alibaba has a market cap of $360.39 Billion USD."
+  },
+  {
+    "name": "Alphabet",
+    "ticker": "Google",
+    "slug": "alphabet-google",
+    "marketCap": "$3.973 Trillion",
+    "description": "As of January 2026 Alphabet (Google) has a market cap of $3.973 Trillion USD."
+  },
+  {
+    "name": "Amazon",
+    "ticker": "AMZN",
+    "slug": "amazon",
+    "marketCap": "$2.644 Trillion",
+    "description": "As of January 2026 Amazon has a market cap of $2.644 Trillion USD."
+  },
+  {
+    "name": "AMD",
+    "ticker": "AMD",
+    "slug": "amd",
+    "marketCap": "$330.76 Billion",
+    "description": "As of January 2026 AMD has a market cap of $330.76 Billion USD."
+  },
+  {
+    "name": "American Express",
+    "ticker": "AXP",
+    "slug": "american-express",
+    "marketCap": "$261.38 Billion",
+    "description": "As of January 2026 American Express has a market cap of $261.38 Billion USD."
+  },
+  {
+    "name": "Apple",
+    "ticker": "AAPL",
+    "slug": "apple",
+    "marketCap": "$3.849 Trillion",
+    "description": "As of January 2026 Apple has a market cap of $3.849 Trillion USD."
+  },
+  {
+    "name": "Applied Materials",
+    "ticker": "AMAT",
+    "slug": "applied-materials",
+    "marketCap": "$239.93 Billion",
+    "description": "As of January 2026 Applied Materials has a market cap of $239.93 Billion USD."
+  },
+  {
+    "name": "AppLovin",
+    "ticker": "APP",
+    "slug": "applovin",
+    "marketCap": "$219.09 Billion",
+    "description": "As of January 2026 AppLovin has a market cap of $219.09 Billion USD."
+  },
+  {
+    "name": "ASML",
+    "ticker": "ASML",
+    "slug": "asml",
+    "marketCap": "$494.45 Billion",
+    "description": "As of January 2026 ASML has a market cap of $494.45 Billion USD."
+  },
+  {
+    "name": "AstraZeneca",
+    "ticker": "AZN",
+    "slug": "astrazeneca",
+    "marketCap": "$293.46 Billion",
+    "description": "As of January 2026 AstraZeneca has a market cap of $293.46 Billion USD."
+  },
+  {
+    "name": "Bank of America ",
+    "ticker": "BAC",
+    "slug": "bank-of-america",
+    "marketCap": "$422.23 Billion",
+    "description": "As of January 2026 Bank of America  has a market cap of $422.23 Billion USD."
+  },
+  {
+    "name": "Bank of China",
+    "ticker": "601988.SS",
+    "slug": "bank-of-china",
+    "marketCap": "$253.53 Billion",
+    "description": "As of January 2026 Bank of China has a market cap of $253.53 Billion USD."
+  },
+  {
+    "name": "Berkshire Hathaway ",
+    "ticker": "BRK-B",
+    "slug": "berkshire-hathaway",
+    "marketCap": "$1.076 Trillion",
+    "description": "As of January 2026 Berkshire Hathaway  has a market cap of $1.076 Trillion USD."
+  },
+  {
+    "name": "Blackstone Group",
+    "ticker": "BX",
+    "slug": "blackstone-group",
+    "marketCap": "$193.40 Billion",
+    "description": "As of January 2026 Blackstone Group has a market cap of $193.40 Billion USD."
+  },
+  {
+    "name": "Boeing",
+    "ticker": "BA",
+    "slug": "boeing",
+    "marketCap": "$183.65 Billion",
+    "description": "As of January 2026 Boeing has a market cap of $183.65 Billion USD."
+  },
+  {
+    "name": "Booking Holdings",
+    "ticker": "Booking.com",
+    "slug": "booking-holdings",
+    "marketCap": "$177.99 Billion",
+    "description": "As of January 2026 Booking Holdings (Booking.com) has a market cap of $177.99 Billion USD."
+  },
+  {
+    "name": "Broadcom",
+    "ticker": "AVGO",
+    "slug": "broadcom",
+    "marketCap": "$1.635 Trillion",
+    "description": "As of January 2026 Broadcom has a market cap of $1.635 Trillion USD."
+  },
+  {
+    "name": "Caterpillar",
+    "ticker": "CAT",
+    "slug": "caterpillar",
+    "marketCap": "$289.34 Billion",
+    "description": "As of January 2026 Caterpillar has a market cap of $289.34 Billion USD."
+  },
+  {
+    "name": "CATL",
+    "ticker": "300750.SZ",
+    "slug": "catl",
+    "marketCap": "$243.47 Billion",
+    "description": "As of January 2026 CATL has a market cap of $243.47 Billion USD."
+  },
+  {
+    "name": "Charles Schwab",
+    "ticker": "SCHW",
+    "slug": "charles-schwab",
+    "marketCap": "$181.83 Billion",
+    "description": "As of January 2026 Charles Schwab has a market cap of $181.83 Billion USD."
+  },
+  {
+    "name": "Chevron",
+    "ticker": "CVX",
+    "slug": "chevron",
+    "marketCap": "$326.62 Billion",
+    "description": "As of January 2026 Chevron has a market cap of $326.62 Billion USD."
+  },
+  {
+    "name": "China Construction Bank",
+    "ticker": "601939.SS",
+    "slug": "china-construction-bank",
+    "marketCap": "$339.69 Billion",
+    "description": "As of January 2026 China Construction Bank has a market cap of $339.69 Billion USD."
+  },
+  {
+    "name": "China Life Insurance",
+    "ticker": "601628.SS",
+    "slug": "china-life-insurance",
+    "marketCap": "$197.72 Billion",
+    "description": "As of January 2026 China Life Insurance has a market cap of $197.72 Billion USD."
+  },
+  {
+    "name": "China Mobile",
+    "ticker": "0941.HK",
+    "slug": "china-mobile",
+    "marketCap": "$227.34 Billion",
+    "description": "As of January 2026 China Mobile has a market cap of $227.34 Billion USD."
+  },
+  {
+    "name": "Cisco",
+    "ticker": "CSCO",
+    "slug": "cisco",
+    "marketCap": "$291.90 Billion",
+    "description": "As of January 2026 Cisco has a market cap of $291.90 Billion USD."
+  },
+  {
+    "name": "Citigroup",
+    "ticker": "C",
+    "slug": "citigroup",
+    "marketCap": "$223.33 Billion",
+    "description": "As of January 2026 Citigroup has a market cap of $223.33 Billion USD."
+  },
+  {
+    "name": "Coca-Cola",
+    "ticker": "KO",
+    "slug": "coca-cola",
+    "marketCap": "$303.45 Billion",
+    "description": "As of January 2026 Coca-Cola has a market cap of $303.45 Billion USD."
+  },
+  {
+    "name": "Costco",
+    "ticker": "COST",
+    "slug": "costco",
+    "marketCap": "$410.60 Billion",
+    "description": "As of January 2026 Costco has a market cap of $410.60 Billion USD."
+  },
+  {
+    "name": "Eli Lilly",
+    "ticker": "LLY",
+    "slug": "eli-lilly",
+    "marketCap": "$953.43 Billion",
+    "description": "As of January 2026 Eli Lilly has a market cap of $953.43 Billion USD."
+  },
+  {
+    "name": "Exxon Mobil",
+    "ticker": "XOM",
+    "slug": "exxon-mobil",
+    "marketCap": "$531.24 Billion",
+    "description": "As of January 2026 Exxon Mobil has a market cap of $531.24 Billion USD."
+  },
+  {
+    "name": "General Electric",
+    "ticker": "GE",
+    "slug": "general-electric",
+    "marketCap": "$341.02 Billion",
+    "description": "As of January 2026 General Electric has a market cap of $341.02 Billion USD."
+  },
+  {
+    "name": "Goldman Sachs",
+    "ticker": "GS",
+    "slug": "goldman-sachs",
+    "marketCap": "$284.24 Billion",
+    "description": "As of January 2026 Goldman Sachs has a market cap of $284.24 Billion USD."
+  },
+  {
+    "name": "Hermès",
+    "ticker": "RMS.PA",
+    "slug": "hermes-international",
+    "marketCap": "$270.50 Billion",
+    "description": "As of January 2026 Hermès has a market cap of $270.50 Billion USD."
+  },
+  {
+    "name": "Home Depot",
+    "ticker": "HD",
+    "slug": "home-depot",
+    "marketCap": "$372.95 Billion",
+    "description": "As of January 2026 Home Depot has a market cap of $372.95 Billion USD."
+  },
+  {
+    "name": "HSBC",
+    "ticker": "HSBC",
+    "slug": "hsbc",
+    "marketCap": "$275.30 Billion",
+    "description": "As of January 2026 HSBC has a market cap of $275.30 Billion USD."
+  },
+  {
+    "name": "IBM",
+    "ticker": "IBM",
+    "slug": "ibm",
+    "marketCap": "$284.36 Billion",
+    "description": "As of January 2026 IBM has a market cap of $284.36 Billion USD."
+  },
+  {
+    "name": "ICBC",
+    "ticker": "1398.HK",
+    "slug": "icbc",
+    "marketCap": "$351.39 Billion",
+    "description": "As of January 2026 ICBC has a market cap of $351.39 Billion USD."
+  },
+  {
+    "name": "Inditex",
+    "ticker": "ITX.MC",
+    "slug": "inditex",
+    "marketCap": "$204.78 Billion",
+    "description": "As of January 2026 Inditex has a market cap of $204.78 Billion USD."
+  },
+  {
+    "name": "Intel",
+    "ticker": "INTC",
+    "slug": "intel",
+    "marketCap": "$217.27 Billion",
+    "description": "As of January 2026 Intel has a market cap of $217.27 Billion USD."
+  },
+  {
+    "name": "International Holding Company",
+    "ticker": "IHC.AE",
+    "slug": "international-holding-company",
+    "marketCap": "$238.65 Billion",
+    "description": "As of January 2026 International Holding Company has a market cap of $238.65 Billion USD."
+  },
+  {
+    "name": "Intuit",
+    "ticker": "INTU",
+    "slug": "intuit",
+    "marketCap": "$180.09 Billion",
+    "description": "As of January 2026 Intuit has a market cap of $180.09 Billion USD."
+  },
+  {
+    "name": "Intuitive Surgical",
+    "ticker": "ISRG",
+    "slug": "intuitive-surgical",
+    "marketCap": "$210.15 Billion",
+    "description": "As of January 2026 Intuitive Surgical has a market cap of $210.15 Billion USD."
+  },
+  {
+    "name": "Johnson & Johnson",
+    "ticker": "JNJ",
+    "slug": "johnson-and-johnson",
+    "marketCap": "$492.43 Billion",
+    "description": "As of January 2026 Johnson & Johnson has a market cap of $492.43 Billion USD."
+  },
+  {
+    "name": "JPMorgan Chase",
+    "ticker": "JPM",
+    "slug": "jp-morgan-chase",
+    "marketCap": "$905.19 Billion",
+    "description": "As of January 2026 JPMorgan Chase has a market cap of $905.19 Billion USD."
+  },
+  {
+    "name": "KLA",
+    "ticker": "KLAC",
+    "slug": "kla",
+    "marketCap": "$184.35 Billion",
+    "description": "As of January 2026 KLA has a market cap of $184.35 Billion USD."
+  },
+  {
+    "name": "Kweichow Moutai",
+    "ticker": "600519.SS",
+    "slug": "kweichow-moutai",
+    "marketCap": "$254.70 Billion",
+    "description": "As of January 2026 Kweichow Moutai has a market cap of $254.70 Billion USD."
+  },
+  {
+    "name": "L'Oréal",
+    "ticker": "OR.PA",
+    "slug": "l-oreal",
+    "marketCap": "$239.71 Billion",
+    "description": "As of January 2026 L'Oréal has a market cap of $239.71 Billion USD."
+  },
+  {
+    "name": "Lam Research",
+    "ticker": "LRCX",
+    "slug": "lam-research",
+    "marketCap": "$275.35 Billion",
+    "description": "As of January 2026 Lam Research has a market cap of $275.35 Billion USD."
+  },
+  {
+    "name": "Linde",
+    "ticker": "LIN",
+    "slug": "linde",
+    "marketCap": "$208.23 Billion",
+    "description": "As of January 2026 Linde has a market cap of $208.23 Billion USD."
+  },
+  {
+    "name": "LVMH",
+    "ticker": "MC.PA",
+    "slug": "lvmh",
+    "marketCap": "$376.75 Billion",
+    "description": "As of January 2026 LVMH has a market cap of $376.75 Billion USD."
+  },
+  {
+    "name": "Mastercard",
+    "ticker": "MA",
+    "slug": "mastercard",
+    "marketCap": "$520.29 Billion",
+    "description": "As of January 2026 Mastercard has a market cap of $520.29 Billion USD."
+  },
+  {
+    "name": "McDonald",
+    "ticker": "MCD",
+    "slug": "mcdonald",
+    "marketCap": "$219.30 Billion",
+    "description": "As of January 2026 McDonald has a market cap of $219.30 Billion USD."
+  },
+  {
+    "name": "Merck",
+    "ticker": "MRK",
+    "slug": "merck",
+    "marketCap": "$276.08 Billion",
+    "description": "As of January 2026 Merck has a market cap of $276.08 Billion USD."
+  },
+  {
+    "name": "Meta Platforms",
+    "ticker": "Facebook",
+    "slug": "meta-platforms",
+    "marketCap": "$1.646 Trillion",
+    "description": "As of January 2026 Meta Platforms (Facebook) has a market cap of $1.646 Trillion USD."
+  },
+  {
+    "name": "Micron Technology",
+    "ticker": "MU",
+    "slug": "micron-technology",
+    "marketCap": "$388.40 Billion",
+    "description": "As of January 2026 Micron Technology has a market cap of $388.40 Billion USD."
+  },
+  {
+    "name": "Microsoft",
+    "ticker": "MSFT",
+    "slug": "microsoft",
+    "marketCap": "$3.562 Trillion",
+    "description": "As of January 2026 Microsoft has a market cap of $3.562 Trillion USD."
+  },
+  {
+    "name": "Mitsubishi UFJ Financial",
+    "ticker": "MUFG",
+    "slug": "mitsubishi-ufj-financial",
+    "marketCap": "$195.73 Billion",
+    "description": "As of January 2026 Mitsubishi UFJ Financial has a market cap of $195.73 Billion USD."
+  },
+  {
+    "name": "Morgan Stanley",
+    "ticker": "MS",
+    "slug": "morgan-stanley",
+    "marketCap": "$297.42 Billion",
+    "description": "As of January 2026 Morgan Stanley has a market cap of $297.42 Billion USD."
+  },
+  {
+    "name": "Nestlé",
+    "ticker": "NESN.SW",
+    "slug": "nestle",
+    "marketCap": "$242.16 Billion",
+    "description": "As of January 2026 Nestlé has a market cap of $242.16 Billion USD."
+  },
+  {
+    "name": "Netflix",
+    "ticker": "NFLX",
+    "slug": "netflix",
+    "marketCap": "$379.07 Billion",
+    "description": "As of January 2026 Netflix has a market cap of $379.07 Billion USD."
+  },
+  {
+    "name": "Novartis",
+    "ticker": "NVS",
+    "slug": "novartis",
+    "marketCap": "$271.58 Billion",
+    "description": "As of January 2026 Novartis has a market cap of $271.58 Billion USD."
+  },
+  {
+    "name": "Novo Nordisk",
+    "ticker": "NVO",
+    "slug": "novo-nordisk",
+    "marketCap": "$261.32 Billion",
+    "description": "As of January 2026 Novo Nordisk has a market cap of $261.32 Billion USD."
+  },
+  {
+    "name": "NVIDIA",
+    "ticker": "NVDA",
+    "slug": "nvidia",
+    "marketCap": "$4.500 Trillion",
+    "description": "As of January 2026 NVIDIA has a market cap of $4.500 Trillion USD."
+  },
+  {
+    "name": "Oracle",
+    "ticker": "ORCL",
+    "slug": "oracle",
+    "marketCap": "$570.37 Billion",
+    "description": "As of January 2026 Oracle has a market cap of $570.37 Billion USD."
+  },
+  {
+    "name": "Palantir",
+    "ticker": "PLTR",
+    "slug": "palantir",
+    "marketCap": "$423.03 Billion",
+    "description": "As of January 2026 Palantir has a market cap of $423.03 Billion USD."
+  },
+  {
+    "name": "Pepsico",
+    "ticker": "PEP",
+    "slug": "pepsico",
+    "marketCap": "$191.54 Billion",
+    "description": "As of January 2026 Pepsico has a market cap of $191.54 Billion USD."
+  },
+  {
+    "name": "PetroChina",
+    "ticker": "0857.HK",
+    "slug": "petro-china",
+    "marketCap": "$255.16 Billion",
+    "description": "As of January 2026 PetroChina has a market cap of $255.16 Billion USD."
+  },
+  {
+    "name": "Philip Morris International",
+    "ticker": "PM",
+    "slug": "philip-morris",
+    "marketCap": "$253.12 Billion",
+    "description": "As of January 2026 Philip Morris International has a market cap of $253.12 Billion USD."
+  },
+  {
+    "name": "Ping An Insurance",
+    "ticker": "601318.SS",
+    "slug": "ping-an-insurance",
+    "marketCap": "$179.07 Billion",
+    "description": "As of January 2026 Ping An Insurance has a market cap of $179.07 Billion USD."
+  },
+  {
+    "name": "Procter & Gamble",
+    "ticker": "PG",
+    "slug": "procter-and-gamble",
+    "marketCap": "$332.04 Billion",
+    "description": "As of January 2026 Procter & Gamble has a market cap of $332.04 Billion USD."
+  },
+  {
+    "name": "Prosus",
+    "ticker": "PRX.AS",
+    "slug": "prosus",
+    "marketCap": "$273.49 Billion",
+    "description": "As of January 2026 Prosus has a market cap of $273.49 Billion USD."
+  },
+  {
+    "name": "QUALCOMM",
+    "ticker": "QCOM",
+    "slug": "qualcomm",
+    "marketCap": "$191.82 Billion",
+    "description": "As of January 2026 QUALCOMM has a market cap of $191.82 Billion USD."
+  },
+  {
+    "name": "RTX",
+    "ticker": "RTX",
+    "slug": "raytheon-technologies",
+    "marketCap": "$252.73 Billion",
+    "description": "As of January 2026 RTX has a market cap of $252.73 Billion USD."
+  },
+  {
+    "name": "Reliance Industries",
+    "ticker": "RELIANCE.NS",
+    "slug": "reliance-industries",
+    "marketCap": "$221.29 Billion",
+    "description": "As of January 2026 Reliance Industries has a market cap of $221.29 Billion USD."
+  },
+  {
+    "name": "Roche",
+    "ticker": "ROG.SW",
+    "slug": "roche",
+    "marketCap": "$341.27 Billion",
+    "description": "As of January 2026 Roche has a market cap of $341.27 Billion USD."
+  },
+  {
+    "name": "Royal Bank Of Canada",
+    "ticker": "RY",
+    "slug": "royal-bank-of-canada",
+    "marketCap": "$237.70 Billion",
+    "description": "As of January 2026 Royal Bank Of Canada has a market cap of $237.70 Billion USD."
+  },
+  {
+    "name": "Salesforce",
+    "ticker": "CRM",
+    "slug": "salesforce",
+    "marketCap": "$247.46 Billion",
+    "description": "As of January 2026 Salesforce has a market cap of $247.46 Billion USD."
+  },
+  {
+    "name": "Samsung",
+    "ticker": "005930.KS",
+    "slug": "samsung",
+    "marketCap": "$637.22 Billion",
+    "description": "As of January 2026 Samsung has a market cap of $637.22 Billion USD."
+  },
+  {
+    "name": "SAP",
+    "ticker": "SAP",
+    "slug": "sap",
+    "marketCap": "$288.32 Billion",
+    "description": "As of January 2026 SAP has a market cap of $288.32 Billion USD."
+  },
+  {
+    "name": "Saudi Aramco",
+    "ticker": "2222.SR",
+    "slug": "saudi-aramco",
+    "marketCap": "$1.525 Trillion",
+    "description": "As of January 2026 Saudi Aramco has a market cap of $1.525 Trillion USD."
+  },
+  {
+    "name": "Shell",
+    "ticker": "SHEL",
+    "slug": "shell",
+    "marketCap": "$201.63 Billion",
+    "description": "As of January 2026 Shell has a market cap of $201.63 Billion USD."
+  },
+  {
+    "name": "Shopify",
+    "ticker": "SHOP",
+    "slug": "shopify",
+    "marketCap": "$214.12 Billion",
+    "description": "As of January 2026 Shopify has a market cap of $214.12 Billion USD."
+  },
+  {
+    "name": "Siemens",
+    "ticker": "SIE.DE",
+    "slug": "siemens",
+    "marketCap": "$231.72 Billion",
+    "description": "As of January 2026 Siemens has a market cap of $231.72 Billion USD."
+  },
+  {
+    "name": "SK Hynix",
+    "ticker": "000660.KS",
+    "slug": "sk-hynix",
+    "marketCap": "$352.22 Billion",
+    "description": "As of January 2026 SK Hynix has a market cap of $352.22 Billion USD."
+  },
+  {
+    "name": "T-Mobile US",
+    "ticker": "TMUS",
+    "slug": "t-mobile-us",
+    "marketCap": "$225.71 Billion",
+    "description": "As of January 2026 T-Mobile US has a market cap of $225.71 Billion USD."
+  },
+  {
+    "name": "Tencent",
+    "ticker": "TCEHY",
+    "slug": "tencent",
+    "marketCap": "$713.83 Billion",
+    "description": "As of January 2026 Tencent has a market cap of $713.83 Billion USD."
+  },
+  {
+    "name": "Tesla",
+    "ticker": "TSLA",
+    "slug": "tesla",
+    "marketCap": "$1.480 Trillion",
+    "description": "As of January 2026 Tesla has a market cap of $1.480 Trillion USD."
+  },
+  {
+    "name": "Thermo Fisher Scientific",
+    "ticker": "TMO",
+    "slug": "thermo-fisher-scientific",
+    "marketCap": "$232.51 Billion",
+    "description": "As of January 2026 Thermo Fisher Scientific has a market cap of $232.51 Billion USD."
+  },
+  {
+    "name": "Toyota",
+    "ticker": "TM",
+    "slug": "toyota",
+    "marketCap": "$288.71 Billion",
+    "description": "As of January 2026 Toyota has a market cap of $288.71 Billion USD."
+  },
+  {
+    "name": "TSMC",
+    "ticker": "TSM",
+    "slug": "tsmc",
+    "marketCap": "$1.678 Trillion",
+    "description": "As of January 2026 TSMC has a market cap of $1.678 Trillion USD."
+  },
+  {
+    "name": "Uber",
+    "ticker": "UBER",
+    "slug": "uber",
+    "marketCap": "$178.17 Billion",
+    "description": "As of January 2026 Uber has a market cap of $178.17 Billion USD."
+  },
+  {
+    "name": "UnitedHealth",
+    "ticker": "UNH",
+    "slug": "united-health",
+    "marketCap": "$311.59 Billion",
+    "description": "As of January 2026 UnitedHealth has a market cap of $311.59 Billion USD."
+  },
+  {
+    "name": "Visa",
+    "ticker": "V",
+    "slug": "visa",
+    "marketCap": "$675.02 Billion",
+    "description": "As of January 2026 Visa has a market cap of $675.02 Billion USD."
+  },
+  {
+    "name": "Walmart",
+    "ticker": "WMT",
+    "slug": "walmart",
+    "marketCap": "$913.13 Billion",
+    "description": "As of January 2026 Walmart has a market cap of $913.13 Billion USD."
+  },
+  {
+    "name": "Walt Disney",
+    "ticker": "DIS",
+    "slug": "walt-disney",
+    "marketCap": "$208.34 Billion",
+    "description": "As of January 2026 Walt Disney has a market cap of $208.34 Billion USD."
+  },
+  {
+    "name": "Wells Fargo",
+    "ticker": "WFC",
+    "slug": "wells-fargo",
+    "marketCap": "$307.37 Billion",
+    "description": "As of January 2026 Wells Fargo has a market cap of $307.37 Billion USD."
+  }
+]
