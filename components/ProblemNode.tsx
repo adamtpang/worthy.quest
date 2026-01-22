@@ -1,7 +1,7 @@
 "use client";
 
 import { memo } from "react";
-import { Handle, Position, NodeProps } from "@xyflow/react";
+import { Handle, Position, NodeProps, Node } from "@xyflow/react";
 import { Problem } from "@/data/problems";
 
 type ProblemNodeData = {
@@ -9,8 +9,8 @@ type ProblemNodeData = {
     onClick: (problem: Problem) => void;
 };
 
-function ProblemNodeComponent({ data }: NodeProps<ProblemNodeData>) {
-    const { problem, onClick } = data as unknown as ProblemNodeData;
+function ProblemNodeComponent({ data }: NodeProps<Node<ProblemNodeData>>) {
+    const { problem, onClick } = data;
 
     return (
         <div
