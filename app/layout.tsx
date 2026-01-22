@@ -1,25 +1,26 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Playfair_Display, Inter } from "next/font/google";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const playfair = Playfair_Display({
+  variable: "--font-playfair",
   subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const inter = Inter({
+  variable: "--font-inter",
   subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
-  title: "Worthy.Quest | The Market for Meaning",
-  description: "Open-source dashboard ranking humanity's greatest problems. Find the Quests worth solving based on Meaning, Suffering Cap, and Economic Cost of Inaction.",
-  keywords: ["effective altruism", "longtermism", "global problems", "aging", "biosecurity", "desalination", "open source"],
-  authors: [{ name: "Worthy.Quest Contributors" }],
+  title: "The Main Quest",
+  description: "The operating system for the moral entrepreneur. Map the infinite game.",
+  keywords: ["moral entrepreneurship", "effective altruism", "longtermism", "problem solving", "humanity", "tech tree"],
+  authors: [{ name: "The Main Quest Contributors" }],
   openGraph: {
-    title: "Worthy.Quest | The Market for Meaning",
-    description: "Open-source dashboard ranking humanity's greatest problems.",
+    title: "The Main Quest",
+    description: "The operating system for the moral entrepreneur. Map the infinite game.",
     type: "website",
   },
 };
@@ -31,9 +32,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-[#050505]`}
-      >
+      <body className={`${playfair.variable} ${inter.variable} antialiased`}>
         {children}
       </body>
     </html>
